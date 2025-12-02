@@ -62,9 +62,6 @@
 
 ## 🖼️ Preview
 
-*(Add your bot image or screenshot here)*
-Example:
-
-![ZapBot](https://cdn.discordapp.com/attachments/1406329864071413940/1445252126086529147/image.png)
+![ZapBot](https://i.vgy.me/hncSKC.png)
 
 ---
