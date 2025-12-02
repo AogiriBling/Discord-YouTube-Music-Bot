@@ -24,6 +24,7 @@
 
 * Python **3.9+**
 * Install libraries:
+* Make sure to change server id & channel id.
 
   ```python
   pip install discord.py yt-dlp
