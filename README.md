@@ -12,12 +12,11 @@
 ## ✨ Features
 
 * **🎵 Slash Command Music Player** (`/play`, `/pause`, `/resume`, `/skip`, `/stop`)
-* **📜 Queue System** — per-server queues, now playing info
-* **🔁 Loop Mode** — repeat the current track
+* **📜 Queue System** : per-server queues, now playing info
+* **🔁 Loop Mode** : repeat the current track
 * **🎧 High-Quality Audio** via FFmpeg + yt-dlp
-* **🤖 Smart VC Behavior** — auto-leaves empty channels
-* **🛡️ Stable Playback** — reconnect logic & error handling
-* **🌍 Cross-Platform** — Windows, Linux, macOS
+* **🤖 Smart VC Behavior** : auto-leaves empty channels
+* **🛡️ Stable Playback** : reconnect logic & error handling
 
 ---
 
